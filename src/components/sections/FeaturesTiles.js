@@ -49,8 +49,8 @@ class FeaturesTiles extends React.Component {
     );
 
     const sectionHeader = {
-      title: 'Build up the whole picture',
-      paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+      title: 'The Historic Collection',
+      paragraph: 'Noise Everyday NFT is the original collection created for this community. The NFT representing an OG crypto person absolutely needs to be special. This NFT needs to be a first. Noise Everyday is the first 100% on-chain pfp NFT collection created entirely in a single transaction.'
     };
 
     return (
@@ -79,7 +79,7 @@ class FeaturesTiles extends React.Component {
                       Robust Workflow
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat. Not just a profile picture NFT, Noise Everyday ERC721 is an identity that must be owned by community members to get many benefits in the future. What are the benefits?
                     </p>
                   </div>
                 </div>
