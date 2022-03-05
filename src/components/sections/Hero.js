@@ -73,7 +73,7 @@ class HeroFull extends React.Component {
                 </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
                   <ButtonGroup>
-                    <Button tag="a" color="primary" wideMobile href="#about-us">
+                    <Button tag="a" color="primary" wideMobile href="#">
                       Get started
                     </Button>
                     <Button tag="a" color="dark" wideMobile href="https://github.com/noiseeveryday">
