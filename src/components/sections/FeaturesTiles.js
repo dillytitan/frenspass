@@ -50,7 +50,7 @@ class FeaturesTiles extends React.Component {
 
     const sectionHeader = {
       title: 'The Historic Collection',
-      paragraph: 'Noise Everyday NFT is the original collection created for this community. The NFT representing an OG crypto person absolutely needs to be special. This NFT needs to be a first. Noise Everyday is the first 100% on-chain pfp NFT collection created entirely in a single transaction.'
+      paragraph: 'Noise Everyday NFT is the original collection created for this community. The NFT representing an OG crypto person absolutely needs to be special. This NFT needs to be a first. Noise Everyday is the first 100% on-chain pfp NFT collection created entirely in a single transaction. Not just a profile picture NFT, Noise Everyday ERC721 is an identity that must be owned by community members to get many benefits in the future. Why Noise Everyday?'
     };
 
     return (
@@ -69,17 +69,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-01.svg')}
-                        alt="Features tile icon 01"
+                        alt="A Piece of History"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      A Piece of History
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat. Not just a profile picture NFT, Noise Everyday ERC721 is an identity that must be owned by community members to get many benefits in the future. What are the benefits?
+                      Noise Everyday is the first on-chain pfp collection created in a single transaction. Our community has already made history beyond an NFT first. Join us as we create more life changing history with NFTs and web3.
                     </p>
                   </div>
                 </div>
@@ -91,17 +91,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-02.svg')}
-                        alt="Features tile icon 02"
+                        alt="DAO"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      DAO
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      Noise Everyday NFTs govern our DAO. Our DAO is funded by NE token sales, and will be used by our community to fund projects that create value for our community and the world.
                     </p>
                   </div>
                 </div>
@@ -113,17 +113,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-03.svg')}
-                        alt="Features tile icon 03"
+                        alt="Community Project"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      Community Project
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      Start a new project or business, and get the help of our knowledgeable and well connected community. Build your team, get users, get advice, get funding, all from the Noise Everyday community. Be set up for success.
                     </p>
                   </div>
                 </div>
@@ -135,17 +135,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-04.svg')}
-                        alt="Features tile icon 04"
+                        alt="Noise ERC20 Token"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      Noise ERC20 Token
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      This is our commitment to keep this community running by issuing ERC20 Tokens with a max supply of only 6 million tokens.
                     </p>
                   </div>
                 </div>
@@ -157,17 +157,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-05.svg')}
-                        alt="Features tile icon 05"
+                        alt="Building a New Economy"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      Building a New Economy
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      Participate in the community economy and create value for yourself and others. Create and sell things for Noise ERC20. Work for Noise ERC20. Buy things with Noise ERC20. Create value together. From Community for Community.
                     </p>
                   </div>
                 </div>
@@ -179,17 +179,17 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-06.svg')}
-                        alt="Features tile icon 06"
+                        alt="Merch"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Robust Workflow
+                      Merch
                     </h4>
                     <p className="m-0 text-sm">
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                      Exclusive Noise Everyday merch will be available for the community in exchange for Noise ERC20, crypto, or plain fiat.
                     </p>
                   </div>
                 </div>
