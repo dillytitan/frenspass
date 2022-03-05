@@ -179,14 +179,14 @@ class FeaturesTiles extends React.Component {
                     <div className="features-tiles-item-image mb-16">
                       <Image
                         src={require('./../../assets/images/feature-tile-icon-06.svg')}
-                        alt="Merch"
+                        alt="Noise Everyday Merch"
                         width={64}
                         height={64} />
                     </div>
                   </div>
                   <div className="features-tiles-item-content">
                     <h4 className="mt-0 mb-8">
-                      Merch
+                      Noise Everyday Merch
                     </h4>
                     <p className="m-0 text-sm">
                       Exclusive Noise Everyday merch will be available for the community in exchange for Noise ERC20, crypto, or plain fiat.
