@@ -129,28 +129,6 @@ class FeaturesTiles extends React.Component {
                 </div>
               </div>
 
-              <div className="tiles-item reveal-from-bottom">
-                <div className="tiles-item-inner">
-                  <div className="features-tiles-item-header">
-                    <div className="features-tiles-item-image mb-16">
-                      <Image
-                        src={require('./../../assets/images/feature-tile-icon-04.svg')}
-                        alt="Noise ERC20 Token"
-                        width={64}
-                        height={64} />
-                    </div>
-                  </div>
-                  <div className="features-tiles-item-content">
-                    <h4 className="mt-0 mb-8">
-                      Noise ERC20 Token
-                    </h4>
-                    <p className="m-0 text-sm">
-                      This is our commitment to keep this community running by issuing ERC20 Tokens with a max supply of only 6 million tokens.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
               <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
                 <div className="tiles-item-inner">
                   <div className="features-tiles-item-header">
@@ -168,6 +146,28 @@ class FeaturesTiles extends React.Component {
                     </h4>
                     <p className="m-0 text-sm">
                       Participate in the community economy and create value for yourself and others. Create and sell things for Noise ERC20. Work for Noise ERC20. Buy things with Noise ERC20. Create value together. From Community for Community.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="tiles-item reveal-from-bottom">
+                <div className="tiles-item-inner">
+                  <div className="features-tiles-item-header">
+                    <div className="features-tiles-item-image mb-16">
+                      <Image
+                        src={require('./../../assets/images/feature-tile-icon-04.svg')}
+                        alt="Noise ERC20 Token"
+                        width={64}
+                        height={64} />
+                    </div>
+                  </div>
+                  <div className="features-tiles-item-content">
+                    <h4 className="mt-0 mb-8">
+                      Noise ERC20 Token
+                    </h4>
+                    <p className="m-0 text-sm">
+                      This is our commitment to keep this community running by issuing ERC20 Tokens with a max supply of only 6 million tokens.
                     </p>
                   </div>
                 </div>
