@@ -1,7 +1,5 @@
 # Noise Everyday Landing Page
 
-![Noise Everyday Landing Page preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
-
 **We** use this source for **Noise Everyday Landing Page** and free for developers/makers who want to create a quick and professional landing page for their open source projects like it.
 
 Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/rataumicek) if you build anything cool/useful with it.
