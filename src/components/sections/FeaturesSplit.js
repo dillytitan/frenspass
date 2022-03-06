@@ -113,7 +113,7 @@ class FeaturesSplit extends React.Component {
                   )}
                   data-reveal-container=".split-item">
                   <Image
-                    src={require('./../../assets/images/features-split-image-02.png')}
+                    src={require('./../../assets/images/features-split-image-02.jpg')}
                     alt="Features split 02"
                     width={528}
                     height={396} />
