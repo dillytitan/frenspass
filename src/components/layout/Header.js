@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
+//import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
 
 const propTypes = {
@@ -121,7 +121,7 @@ class Header extends React.Component {
                         navPosition && `header-nav-${navPosition}`
                       )}>
                       <li>
-                        <Link tag="a" href="https://games.noiseeveryday.xyz">LIVE GAMES</Link>
+                        <a href="https://games.noiseeveryday.xyz">LIVE GAMES</a>
                       </li>
                     </ul>
                     {!hideSignin &&
@@ -129,7 +129,7 @@ class Header extends React.Component {
                         className="list-reset header-nav-right"
                       >
                         <li>
-                          <Link tag="a" href="https://mint.noiseeveryday.xyz" className="button button-primary button-wide-mobile button-sm">MINT NOISE</Link>
+                          <a href="https://mint.noiseeveryday.xyz" className="button button-primary button-wide-mobile button-sm">MINT NOISE</a>
                         </li>
                       </ul>}
                   </div>
