@@ -121,7 +121,7 @@ class Header extends React.Component {
                         navPosition && `header-nav-${navPosition}`
                       )}>
                       <li>
-                        <Link to="https://games.noiseeveryday.xyz" onClick={this.closeMenu}>LIVE GAMES</Link>
+                        <Link href="https://games.noiseeveryday.xyz" onClick={this.closeMenu}>LIVE GAMES</Link>
                       </li>
                     </ul>
                     {!hideSignin &&
@@ -129,7 +129,7 @@ class Header extends React.Component {
                         className="list-reset header-nav-right"
                       >
                         <li>
-                          <Link to="https://mint.noiseeveryday.xyz" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>MINT NOISE</Link>
+                          <Link href="https://mint.noiseeveryday.xyz" className="button button-primary button-wide-mobile button-sm" onClick={this.closeMenu}>MINT NOISE</Link>
                         </li>
                       </ul>}
                   </div>
